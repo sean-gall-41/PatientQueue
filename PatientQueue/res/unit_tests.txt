@@ -1,0 +1,6 @@
+# Unit testing inputs for testing of output logs
+N Stephan 5 N David 3 U Stephan 2 N Ronald 8 P P P Q
+N A 1 N B 3 N C 4 N  B 5 U B 2 C N A 2 P Q
+N Q 8 C C C P
+N jim 5 N JIM 3 u jim 2 P N JIM 10 F N PaM 3 F P P P Q
+N Anton 3 N Anton 4 N Anton 5 F U Anton 2 Q
